@@ -1,0 +1,15 @@
+[submodule "unsubmodulify_in_git"]
+	path = unsubmodulify_in_git
+	url = https://gist.github.com/8302357.git
+[submodule "update_unversioned_drupal_modules"]
+	path = update_unversioned_drupal_modules
+	url = https://gist.github.com/8302131.git
+[submodule "get_from_rss_feed"]
+	path = get_from_rss_feed
+	url = https://gist.github.com/8250496.git
+[submodule "git_config"]
+	path = git_config
+	url = https://gist.github.com/8250435.git
+[submodule "convert_svn_to_git"]
+	path = convert_svn_to_git
+	url = https://gist.github.com/8250110.git
